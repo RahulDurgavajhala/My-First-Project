@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: rgb(33, 57, 134);
+    color: azure;
+
+}
+img{
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+}
+img :hover{
+width: 300px;
+height: 300px;
+border-radius: 10px;
+}
+h1 :hover{
+ color: blue;
+}
